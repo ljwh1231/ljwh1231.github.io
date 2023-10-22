@@ -1,19 +1,19 @@
 # Skills
-# Deep Learning
-- skill: Deep-Learning
-  description: Many CNN, RNN, SVM models, tensorflow v1
-
 # Frontend
 - skill: Frontend Development
   description: ReactJS
 
 # Backend
 - skill: Bacekend Development
-  description: NodeJS, ExpressJS, RESTful API
+  description: RESTful API, Java, Golang
+
+# Infrastructure
+- skill: Devops
+  description: AWS, K8S, Prometheus, Grafana, HPA, fluent-bit
 
 # DB
 - skill: Database
-  description: MySQL, mongoDB, SequelizeJS
+  description: MySQL, Redis
 
 # Problem solving
 - skill: Problem solving(Data structure, algorithm)
