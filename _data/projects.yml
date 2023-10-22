@@ -12,29 +12,26 @@
 - project: Doughsam
   role: Project manager
   duration: 2015 &mdash; Present
-  url: "https://doughsam.com"
   description: Yonsei University Course Registration Assistant Service for Mileage Investment
 
 # Box Game
 - project: Box game
   role: Project manager
   duration: Jan, 2017 &mdash; Feb, 2017
-  url: "https://docs.google.com/document/d/1fevt_nXTXcrhQlMgC6HUhW21o2lqjgK1vFMpfrpxgWY/"
   description: Manage the game which contains contents that breed box and decorate own world
 
 # DIET
 - project: Excavator Engine Prognostics Health Management Project
   role: Developer
   duration: Aug, 2018 &mdash; Dec, 2018
-  url: "https://drive.google.com/file/d/1J4SZ0WsOylHWQ8J4RjksztUoU4Z2A1nT/view?usp=sharing"
-  description: Classify normal data and abnormal data of sensors in excavator engines by using Deep Learning model
+  description: Classify normal data and abnormal data of sensors in excavator engines by using Deep Learning model supported by Doosan Industry(Due to security issue, there is no code.)
 
 # Momguide
 - project: Momguide
   role: Frontend & backend developer
   duration: Jan, 2019 &mdash; Feb, 2019
   url: "https://momguide.co.kr"
-  description: Make a website for momguide which is a service for moms who have children
+  description: Make a website for momguide which is a service for moms who have children, <a href="https://github.com/ljwh1231/Infogreen-Momguide-backend">Server</a>, <a href="https://github.com/hywook4/InfoGreen-Momguide-frontend">Client</a>, 
 
 # MAI
 - project: Musical Artificial Intelligence
